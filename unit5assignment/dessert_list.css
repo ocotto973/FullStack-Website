@@ -1,0 +1,11 @@
+td {
+  border: 1px solid black;
+  padding: .2em .5em .2em .5em;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 16px;
+}
+
+th{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 20px;
+}
